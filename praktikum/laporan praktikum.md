@@ -6,13 +6,10 @@
 - **Kelas**: IF-12-05
 
 ## 2. Motivasi Belajar Struktur Data
-[Isi dengan motivasi Anda dalam mempelajari struktur data, misalnya pentingnya struktur data dalam pengolahan informasi dan implementasi dalam dunia nyata.]
+[Memahami struktur data itu bukan hanya soal menguasai teori tentang penyimpanan dan pengelolaan informasi dalam bentuk yang abstrak, tapi juga merupakan langkah dasar untuk membentuk pola pikir komputasional yang teratur. Di sini, setiap konsep seperti array, linked list, stack, queue, tree, hingga graph, sebenarnya melatih kita untuk berpikir tentang efisiensi, kompleksitas waktu dan ruang, serta bagaimana memilih representasi yang paling tepat untuk menyelesaikan masalah nyata dengan cara yang optimal; dengan kata lain, belajar struktur data adalah proses mempersiapkan diri agar bisa menjembatani keterbatasan mesin dengan kreativitas manusia dalam merancang solusi yang elegan, efisien, dan dapat diandalkan.]
 
 ## 3. Dasar Teori
-Contoh: Struktur data adalah cara untuk menyimpan dan mengorganisir data dalam komputer agar dapat digunakan secara efisien. Berikut adalah teori dasar mengenai **Graf** dan **Pohon**:
-
-- **Graf**: Merupakan struktur data yang digunakan untuk menggambarkan hubungan antar objek yang disebut simpul (vertex) dan hubungan antar simpul yang disebut busur (edge).
-- **Pohon**: Struktur data hierarkis yang terdiri dari simpul dan tepi, dengan satu simpul sebagai akar.
+Memahami struktur data itu bukan hanya soal menguasai teori tentang penyimpanan dan pengelolaan informasi dalam bentuk yang abstrak, tapi juga merupakan langkah dasar untuk membentuk pola pikir komputasional yang teratur. Di sini, setiap konsep seperti array, linked list, stack, queue, tree, hingga graph, sebenarnya melatih kita untuk berpikir tentang efisiensi, kompleksitas waktu dan ruang, serta bagaimana memilih representasi yang paling tepat untuk menyelesaikan masalah nyata dengan cara yang optimal; dengan kata lain, belajar struktur data adalah proses mempersiapkan diri agar bisa menjembatani keterbatasan mesin dengan kreativitas manusia dalam merancang solusi yang elegan, efisien, dan dapat diandalkan.
 
 ## 4. Guided
 ### 4.1 Guided 1
