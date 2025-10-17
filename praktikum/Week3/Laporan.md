@@ -14,8 +14,8 @@ Memahami struktur data itu bukan hanya soal menguasai teori tentang penyimpanan 
 ## 4. Guided
 ### 4.1 Guided 1
 ![alt text] (image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
+![alt text] (image-2.png)
+![alt text] (image-3.png)
 
 
 [code ini menunjukkan hasil eksekusi program linked list yang melakukan serangkaian operasi, yaitu menambahkan node di akhir (InsertLast), menghapus node pertama (DeleteFirst), menghapus node terakhir (DeleteLast), menyisipkan node setelah node pertama (InsertAfter), dan menghapus node setelah node pertama (DeleteAfter), sehingga secara keseluruhan program ini mendemonstrasikan manipulasi struktur data singly linked list melalui operasi penambahan dan penghapusan node pada berbagai posisi.]
