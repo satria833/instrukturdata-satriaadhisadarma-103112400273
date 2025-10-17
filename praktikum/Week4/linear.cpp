@@ -19,22 +19,22 @@ Node* linearSearch(Node* head,int key) {
 }
 
 
-void append(Node*&head,int value) {
+void append(Node*& head, int value) {
+    Node* newNode = new Node{value, nullptr};
 
-    Node*newNode = new Node{value,nullptr};
-
-
-    if(!head)head = newNode;
-
-    else{
-      Node*temp = head;
-      while (temp->next)temp = temp->next;
-
-      tempt->next = newNode;
-
+    if (head == nullptr) {
+        head = newNode;
+        return;
     }
 
+    Node* temp = head;
+    while (temp->next != nullptr) {
+        temp = temp->next;
+    }
+    temp->next = newNode;
 }
+
+    
 
 
 int main() {
