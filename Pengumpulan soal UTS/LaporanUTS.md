@@ -8,12 +8,9 @@ NIM: [103112400273]
 
 Kelas: [IF-12-05]
 
-1. Kode Program
-
+Kode Program
 Berikut adalah kode program untuk [jelaskan singkat tujuan kode, misal: "program C++ untuk mengecek bilangan ganjil/genap"].
 
-
-```File: Soal1.cpp
  * Author: [Satria Adhi Sadarma]
  * NIM: [103112400273]
  * Deskripsi: Program untuk menentukan apakah sebuah bilangan
